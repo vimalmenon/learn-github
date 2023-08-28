@@ -22,10 +22,15 @@ git log --oneline
 - Commit
 - Branch
 - Log
+- diff
+- add
+  - add -p
 - reset
 - Reflog
 - Cherry-Pick
 - Rebase
+- Branching Strategy
+- 
 #### Git
 ---
 #### Git Commit
