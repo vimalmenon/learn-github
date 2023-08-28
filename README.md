@@ -18,7 +18,14 @@ Check Logs
 git log
 git log --oneline
 ```
-
+---
+- Commit
+- Branch
+- Log
+- Reflog
+- Cherry-Pick
+- Rebase
+- 
 #### Git
 ---
 #### Git Commit
