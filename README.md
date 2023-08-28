@@ -33,6 +33,14 @@ git log --oneline
   - Main Branch
 - Tags 
 - Release
+- Pull Request
+- Fork
+- Remote
+- Pull
+- Merge
+- Merge Conflict
+- pull
+- 
 #### Git
 ---
 #### Git Commit
