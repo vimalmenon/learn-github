@@ -13,7 +13,11 @@ Committing the message for pushing
 ```sh
 git commit -m "<message>
 ```
-
+Check Logs
+```sh
+git log
+git log --oneline
+```
 
 #### Git
 ---
