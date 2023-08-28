@@ -30,7 +30,9 @@ git log --oneline
 - Cherry-Pick
 - Rebase
 - Branching Strategy
-- 
+  - Main Branch
+- Tags 
+- Release
 #### Git
 ---
 #### Git Commit
