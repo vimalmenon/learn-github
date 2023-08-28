@@ -19,9 +19,10 @@ git log
 git log --oneline
 ```
 ---
-- Commit
-- Branch
-- Log
+- commit
+- head
+- branch
+- log
 - diff
 - add
   - add -p
@@ -40,8 +41,10 @@ git log --oneline
 - Merge
 - Merge Conflict
 - pull
+- fetch
+- Bisect
+- Revert
 - 
 #### Git
 ---
 #### Git Commit
----
