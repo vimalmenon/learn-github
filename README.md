@@ -22,10 +22,10 @@ git log --oneline
 - Commit
 - Branch
 - Log
+- reset
 - Reflog
 - Cherry-Pick
 - Rebase
-- 
 #### Git
 ---
 #### Git Commit
