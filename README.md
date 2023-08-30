@@ -44,7 +44,10 @@ git log --oneline
 - fetch
 - Bisect
 - Revert
-- 
+- restore
+- Squash
+- Amend
+- Stash
 #### Git
 ---
 #### Git Commit
